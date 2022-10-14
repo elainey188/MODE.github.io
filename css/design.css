@@ -1,0 +1,96 @@
+/*
+*Name:Elaine Nankanja
+*Description:This is my style sheet for my website.
+*/
+body {
+	font-family:Arial,sans-serif;
+	background-color:black;
+    padding-top: 10px;
+	
+	
+}
+
+ul.Elaine_back
+{
+  
+	  border: 2px solid #e7e7e8;
+	  background-color:#e7e7e8;
+	  font-style:italic;
+	  
+	  
+    
+}
+
+li a{
+	color:white;
+}
+.Elaine_right
+{
+	text-align:right;
+}
+th
+{
+    color:white;
+	text-align:center;
+	background-color:firebrick;
+	
+}
+td.class1
+{
+	background-color:rgb(108, 108, 186);
+	text-align:left;
+	color:yellow;
+}
+td.class2{
+	background-color:firebrick;
+	text-align:left;
+}
+td.class3
+{
+	background-color:firebrick;
+	text-align:right;
+	
+	
+}
+tr{
+	color:white;
+}
+
+
+
+table{
+	border-color:black;
+	border:1pt;
+	border-style:double;
+}
+h1
+{ 
+  background-color:rgb(77, 77, 134);
+  color:white;
+  Text-Align:center;
+}
+h2,h3,h4
+{
+	color:rgb(77, 77, 134);
+}
+	
+	
+	
+
+
+
+a:link
+{
+	color:lightsalmon;
+}
+/*visited link*/
+a:visited
+{
+	color:violet;	
+}
+/*mouse over link*/
+a:hover
+{
+	color:green;
+}
+
